@@ -1,0 +1,12 @@
+Tomato - Healthy
+Tomato - Late Blight
+Tomato - Mosaic Virus
+Potato - Healthy
+Potato - Early Blight
+Potato - Late Blight
+Maize - Healthy
+Maize - Leaf Spot
+Maize - Rust
+Pepper - Healthy
+Pepper - Bacterial Spot
+Pepper - Mosaic Virus
